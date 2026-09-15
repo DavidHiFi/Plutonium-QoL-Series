@@ -6,14 +6,14 @@
 
 One mod per game, each in its own repository, plus an app that installs and updates them for you.
 
-<a href="https://github.com/DavidHiFi/QualityOfLifeSeries/releases/latest">
+<a href="https://github.com/DavidHiFi/QualityOfLifeModManager/releases/latest">
 <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20THE%20MOD%20MANAGER-2EA043?style=for-the-badge&labelColor=161B22" alt="Download the mod manager" height="42">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/github/v/release/DavidHiFi/QualityOfLifeSeries?style=flat-square&label=mod%20manager&color=5865F2&labelColor=161B22">
-<img src="https://img.shields.io/github/downloads/DavidHiFi/QualityOfLifeSeries/total?style=flat-square&label=downloads&color=5865F2&labelColor=161B22">
+<img src="https://img.shields.io/github/v/release/DavidHiFi/QualityOfLifeModManager?style=flat-square&label=mod%20manager&color=5865F2&labelColor=161B22">
+<img src="https://img.shields.io/github/downloads/DavidHiFi/QualityOfLifeModManager/total?style=flat-square&label=downloads&color=5865F2&labelColor=161B22">
 <img src="https://img.shields.io/badge/platform-Windows-5865F2?style=flat-square&labelColor=161B22">
 
 </div>
@@ -38,14 +38,14 @@ Every mod has its own repository, its own releases and its own README. Black Ops
 
 ## Mod manager
 
-[**Quality of Life Series**](https://github.com/DavidHiFi/QualityOfLifeSeries) is the easy way to install any mod on this page.
+[**Quality Of Life Mod Manager**](https://github.com/DavidHiFi/QualityOfLifeModManager) is the easy way to install any mod on this page.
 
 * **Install, update and remove** any mod in the series in one click.
 * **Manage every other mod** in your Plutonium folders across World at War, Black Ops and Black Ops II.
 * **Browse community mods** with preview art, and see what you already have installed.
 * **Launch any game** online or in LAN.
 
-[Download it](https://github.com/DavidHiFi/QualityOfLifeSeries/releases/latest). The setup installs it like any other program; the portable zip runs as-is. Windows 10 or 11, 64-bit, and nothing else to install.
+[Download it](https://github.com/DavidHiFi/QualityOfLifeModManager/releases/latest). The setup installs it like any other program; the portable zip runs as-is. Windows 10 or 11, 64-bit, and nothing else to install.
 
 Prefer to do it by hand? Each mod's own repository has the manual steps, and those work on Linux through Wine, Proton, Lutris and Bottles.
 
