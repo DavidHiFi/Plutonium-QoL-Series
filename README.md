@@ -40,12 +40,12 @@ Every mod has its own repository, its own releases and its own README. Black Ops
 
 [**Quality Of Life Mod Manager**](https://github.com/DavidHiFi/QualityOfLifeModManager) is the easy way to install any mod on this page.
 
-* **Install, update and remove** any mod in the series in one click.
-* **Manage every other mod** in your Plutonium folders across World at War, Black Ops and Black Ops II.
-* **Browse community mods** with preview art, and see what you already have installed.
-* **Launch any game** online or in LAN.
+* **Install, update and remove** any mod in the series, plus the Black Ops II extras (HD textures, custom sounds, controller icons) and ReShade.
+* **Manage every other mod** in your Plutonium folders: drop a zip, rar, 7z or a GitHub link, and uninstall restores what it replaced.
+* **Browse community mods** with cover art, and see what you already have installed.
+* **Launch any game** in LAN (mod pre-loaded) or online (through Plutonium's launcher), with ReShade on either. Also runs Black Ops III, Modern Warfare 3 and Advanced Warfare, and hosts a LAN server.
 
-[Download it](https://github.com/DavidHiFi/QualityOfLifeModManager/releases/latest). The setup installs it like any other program; the portable zip runs as-is. Windows 10 or 11, 64-bit, and nothing else to install.
+[Download it](https://github.com/DavidHiFi/QualityOfLifeModManager/releases/latest): unzip and run. Windows 10 or 11, 64-bit, and nothing else to install. Version 2 is a fork of [Cod Lan Launcher](https://github.com/MestreTM/CLL-Cod-Lan-Launcher).
 
 Prefer to do it by hand? Each mod's own repository has the manual steps, and those work on Linux through Wine, Proton, Lutris and Bottles.
 
