@@ -65,6 +65,22 @@ What each game actually ships differs. See that mod's README for its real featur
 
 ---
 
+## Contributing
+
+Bug reports, feature ideas and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, checks and what to include.
+
+## Star history
+
+⭐ Thanks for the stars and for playing the series.
+
+<a href="https://www.star-history.com/?repos=DavidHiFi%2FPlutonium-QoL-Series&amp;type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=DavidHiFi/Plutonium-QoL-Series&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=DavidHiFi/Plutonium-QoL-Series&amp;type=date" />
+    <img alt="DavidHiFi/Plutonium-QoL-Series GitHub star history" src="https://api.star-history.com/chart?repos=DavidHiFi/Plutonium-QoL-Series&amp;type=date" />
+  </picture>
+</a>
+
 ## Credits
 
 * **Author:**
