@@ -69,14 +69,6 @@ Each mod's README has its real feature list.
 > [!NOTE]
 > **Black Ops II, Black Ops and World at War run on [Plutonium](https://plutonium.pw).** Black Ops III does not, so T7-QoL will install a different way when it starts.
 
----
-
-## Support development
-
-The mods are free and always will be. Any amount of support is greatly appreciated, and I hope you enjoy the series.
-
-[![Support DavidHiFi on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/davidhifi)
-
 ## Contributing
 
 Broken links, outdated descriptions and clearer wording all help here. Bugs in a mod go to that mod's repository.
